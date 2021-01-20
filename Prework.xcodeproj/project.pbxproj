@@ -15,6 +15,9 @@
 		DE6D6EB525B7845E0017400F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE6D6EB325B7845E0017400F /* LaunchScreen.storyboard */; };
 		DE6D6EC025B7845F0017400F /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6D6EBF25B7845F0017400F /* PreworkTests.swift */; };
 		DE6D6ECB25B7845F0017400F /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6D6ECA25B7845F0017400F /* PreworkUITests.swift */; };
+		DE6D6EF825B7A3940017400F /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6D6EF725B7A3940017400F /* SettingsViewController.swift */; };
+		DE6D6EF925B7A3940017400F /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6D6EF725B7A3940017400F /* SettingsViewController.swift */; };
+		DE6D6EFA25B7A3940017400F /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6D6EF725B7A3940017400F /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,7 @@
 		DE6D6EC625B7845F0017400F /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE6D6ECA25B7845F0017400F /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		DE6D6ECC25B7845F0017400F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE6D6EF725B7A3940017400F /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,7 @@
 				DE6D6EAA25B7845D0017400F /* SceneDelegate.swift */,
 				DE6D6EAC25B7845D0017400F /* ViewController.swift */,
 				DE6D6EAE25B7845D0017400F /* Main.storyboard */,
+				DE6D6EF725B7A3940017400F /* SettingsViewController.swift */,
 				DE6D6EB125B7845E0017400F /* Assets.xcassets */,
 				DE6D6EB325B7845E0017400F /* LaunchScreen.storyboard */,
 				DE6D6EB625B7845E0017400F /* Info.plist */,
@@ -261,6 +266,7 @@
 				DE6D6EAD25B7845D0017400F /* ViewController.swift in Sources */,
 				DE6D6EA925B7845D0017400F /* AppDelegate.swift in Sources */,
 				DE6D6EAB25B7845D0017400F /* SceneDelegate.swift in Sources */,
+				DE6D6EF825B7A3940017400F /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE6D6EC025B7845F0017400F /* PreworkTests.swift in Sources */,
+				DE6D6EF925B7A3940017400F /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE6D6ECB25B7845F0017400F /* PreworkUITests.swift in Sources */,
+				DE6D6EFA25B7A3940017400F /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
